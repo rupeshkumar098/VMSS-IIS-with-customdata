@@ -1,1 +1,1 @@
-Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Hello World from host $($env:computername) !"
+Set-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value "Hello World from host $($env:computername) !"
